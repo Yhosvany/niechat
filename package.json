@@ -1,7 +1,7 @@
 {
-  "name": "node-chat-app",
+  "name": "niechat",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fast Realtime Web Chat",
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
@@ -11,7 +11,7 @@
   "engines": {
     "node": "6.2.2"
   },
-  "author": "",
+  "author": "NieWie",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
